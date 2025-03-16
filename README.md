@@ -22,7 +22,7 @@ Internet Connection: Required for API requests.
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/YourUsername/AI-Malware-Scanner.git
+git clone https://github.com/RajanNisargan/AI_Power_Malwere_Scanner.git
 
 Navigate to the project directory:
 cd AI-Malware-Scanner
