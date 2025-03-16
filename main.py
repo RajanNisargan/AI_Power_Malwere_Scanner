@@ -10,7 +10,7 @@ import time
 import base64
 
 # VirusTotal API Key
-API_KEY = '60cac5a5c354fa6e765638fbbbb3cb060c26d7f6167a36a7b1b81748632353f3'
+API_KEY = 'VirusTotal API Key'
 
 # Initialize GUI
 ctk.set_appearance_mode('Dark')
